@@ -1,0 +1,11 @@
+{
+    "name":"pipeVendas", 
+    "require":{
+        "robmorgan/phinx": "0.7.1"
+    },
+    "autoload":{
+        "psr 4":{
+            "PIPEVendas\\":"src/"
+        }
+    }
+}
